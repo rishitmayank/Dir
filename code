@@ -1,0 +1,7 @@
+class job:
+name = None
+salary = None
+hoursWorked = None
+
+def__init__(self,name,salary,hoursWorked)
+ self.name = name 
